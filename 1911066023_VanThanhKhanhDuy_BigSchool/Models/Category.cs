@@ -8,5 +8,6 @@ namespace _1911066023_VanThanhKhanhDuy_BigSchool.Models
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
+        //comit lan 1
     }
 }
