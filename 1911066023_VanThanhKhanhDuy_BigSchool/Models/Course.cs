@@ -20,4 +20,7 @@ namespace _1911066023_VanThanhKhanhDuy_BigSchool.Models
         [Required]
         public byte CategoryId { get; set; }
     }
+
+
+
 }
