@@ -26,6 +26,6 @@ namespace _1911066023_VanThanhKhanhDuy_BigSchool.Controllers
 
             return View();
         }
-        //commit 28/3/2022
+        //nop bai 28/3/2022
     }
 }
